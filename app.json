@@ -23,11 +23,6 @@
             "description": "Enter your bot token You can generate by @BotFather",
             "required": true
         }
-        "OWNER_ID": {
-            "description": "𝑼𝒔𝒆𝒓 𝑰𝑫 𝑶𝒇 𝑩𝒐𝒕 𝑶𝒘𝒏𝒆𝒓",
-            "value":"7003164707",
-            "required": true
-        },
     },
     "addons": [],
     "buildpacks": [
