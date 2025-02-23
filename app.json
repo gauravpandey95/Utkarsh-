@@ -13,16 +13,28 @@
     "env": {
         "API_ID": {
             "description": "Enter your API id You can generate by https://my.telegram.org/auth",
+            "value":"12380656",
             "required": true
         },
         "API_HASH": {
             "description": "Enter your API Hash You can generate by https://my.telegram.org/auth",
+            "value":"d927c13beaaf5110f25c505b7c071273",
             "required": true
         },
         "BOT_TOKEN": {
             "description": "Enter your bot token You can generate by @BotFather",
+            "value":"6771720622:AAHu6VmTJKM0NEfsfK_tFcN5GnfJsSINTUo"",
             "required": true
-        }
+        }'
+        "OWNER_ID": {
+            "description": "𝑼𝒔𝒆𝒓 𝑰𝑫 𝑶𝒇 𝑩𝒐𝒕 𝑶𝒘𝒏𝒆𝒓",
+            "value":"7003164707",
+            "required": true
+        },
+        "SUDO_USERS": {
+            "description": "𝑺𝒖𝒅𝒐 𝑰𝑫'𝒔 (𝒀𝒐𝒖 𝑪𝒂𝒏 𝑨𝒅𝒅 𝑴𝒖𝒍𝒕𝒊𝒑𝒍𝒆 𝑩𝒚 𝑮𝒊𝒗𝒊𝒏𝒈 𝑺𝒑𝒂𝒄𝒆)",
+            "value":"7003164707",
+            "required": true
     },
     "addons": [],
     "buildpacks": [
